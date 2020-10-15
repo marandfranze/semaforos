@@ -2,8 +2,7 @@ INFORME HAMBURGUESAS:
 En este uinforme coloque mi pseudocodigo explicando que hace cada funcion y como se corresponde una con otra.
 
 void* imprimirAccion(void *data, char *accionIn) {
-en esta funcion lo que hacemos es abrir el  txt para poder guardar la salida de mi programa
-
+en esta funcion lo que hacemos es abrir el txt y e ir guardando las acciones de los equipos.
 void* cortar(void *data) {
 en esta función cortamos el ajo, la cebolla y el perejil y luego mandamos la señal para que el equipo vaya a la siguiente acción que es mezclar
 
